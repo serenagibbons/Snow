@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Snow.cpp
+c:\users\seren\documents\bcs230\lab9_assignment\lab9_assignment\snow.cpp(38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Lab9_Assignment.vcxproj -> C:\Users\seren\Documents\BCS230\Lab9_Assignment\Debug\Lab9_Assignment.exe
